@@ -1,1 +1,1 @@
-This repository holds the presenntation files for AWS Developer course
+This repository holds the presentation files for AWS Developer course
